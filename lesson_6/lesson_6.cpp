@@ -3,5 +3,8 @@
 int main()
 {
     std::cout << "lesson_6\n";
+
+    int value = getIn();
+    cout << value << endl;
 }
 
